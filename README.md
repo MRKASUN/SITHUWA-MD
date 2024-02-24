@@ -1,4 +1,4 @@
-<div align="center"><h1>🧚‍♂️ 𝐒𝐈𝐓𝐇𝐔𝐖𝐀-𝐌𝐃 🧚‍♂️</h1><a href="https://github.com/Sithuwa/SITHUWA-BOT-MD"><img src="https://telegra.ph/file/f9e51e5d61e439020720a.jpg" width="650" height="450"></a></div>
+<div align="center"><h1>🧚‍♂️ MR KASUN-𝐌𝐃 🧚‍♂️</h1><a href="https://github.com/Sithuwa/MR KASUN-BOT-MD"><img src="[https://telegra.ph/file/0ad8d335efcda7b7226af.jpg](https://telegra.ph/file/0ad8d335efcda7b7226af.jpg)" width="650" height="450"></a></div>
 
 <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=SITHUWA+MD+WHATSAPP+BOT" alt="">
@@ -10,7 +10,7 @@
 <a href="https://github.com/Sithuwa/SITHUWA-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Sithuwa/SITHUWA-MD?color=blue&style=flat-square"></a>
 <a href="https://github.com/Sithuwa/SITHUWA-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Sithuwa/SITHUWA-MD?color=red&style=flat-square"></a>
 <a href="https://github.com/Sithuwa/SITHUWA-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Sithuwa/SITHUWA-MD?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/Sithuwa/SITHUWA-MD"><img title="Size" src="https://img.shields.io/github/repo-size/Sithuwa/SITHUWA-MD?style=flat-square&color=green"></a>
+<a href="https://github.com/Sithuwa/SITHUWA-MD"><img title="Size" src="https://img.shields.io/github/repo-size/Sithuwa/MR KASUN-MD?style=flat-square&color=green"></a>
 ---
 <a align="center"><img src="https://profile-counter.glitch.me/SITHUWA-MD/count.svg" /></a>
 
@@ -74,7 +74,7 @@
 
 <p align="center" >
 <a href="https://youtu.be/HumCsC4MjzI?si=w1U1C5wLSkZ7u7o7">
-    <img src="https://telegra.ph/file/ae251b53658a5505965ad.png" width="170px" alt="Deploy on Repl.it" >
+    <img src="https://telegra.ph/file/ee7de76de7216e1c482dc.jpg" width="170px" alt="Deploy on Repl.it" >
     </a>
 </p>
 
@@ -90,7 +90,7 @@
 </h4>
       
 <p align="center">
-    <a href="https://app.koyeb.com/apps/deploy?type=git&repository=github.com/Sithuwa/SITHUWA-MD&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=94759333625&env[MONGODB_URI]&&env[OWNER_NAME]=SITHUM&env[KOYEB_API]&env[PREFIX]=.&env[ALIVE_IMG]=https://telegra.ph/file/f9e51e5d61e439020720a.jpg&env[global_url]=instagram.com&env[FAKE_COUNTRY_CODE]=92&env[READ_MESSAGE]=false&env[DISABLE_PM]=false&env[WORKTYPE]=public&env[THEME]=sithuwa-md&env[PACK_INFO]=SITHUWA-MD;BY-SITHUM-KALHARA&name=SITHUWA-MD&env[KOYEB_NAME]=SITHUWA-MD&env[ANTILINK_VALUES]=chat.whatsapp.com&env[PORT]=8000)">
+    <a href="https://app.koyeb.com/apps/deploy?type=git&repository=github.com/Sithuwa/SITHUWA-MD&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=94772801923&env[MONGODB_URI]&&env[OWNER_NAME]=MR KASUN&env[KOYEB_API]&env[PREFIX]=.&env[ALIVE_IMG]=https://telegra.ph/file/ee7de76de7216e1c482dc.jpg instagram.com&env[FAKE_COUNTRY_CODE]=92&env[READ_MESSAGE]=false&env[DISABLE_PM]=false&env[WORKTYPE]=public&env[THEME]=kasun-md&env[PACK_INFO]=MR KASUN-MD;BY-KASUN-SANDEEPA&name=KASUN-MD&env[KOYEB_NAME]=MR KASUN-MD&env[ANTILINK_VALUES]=chat.whatsapp.com&env[PORT]=8000)">
     <img src="https://www.koyeb.com/static/images/deploy/button.svg" alt="Deploy on Koyeb" width="155px">
     </a>
    
@@ -154,13 +154,13 @@
 
 # Developers
 
-<h2 align="center">SITHUWA-MD
+<h2 align="center">MR KASUN -MD
 </h2>
 
   <p align="center">
     
-| <a href="https://www.facebook.com/sithum.kalhara.7315?mibextid=ZbWKwL"><img src="https://telegra.ph/file/e76957eb944d94553a0c5.jpg" width=100 height=100></a> |
+| <a href="https://www.facebook.com/sithum.kalhara.7315?mibextid=ZbWKwL"><img src="https://telegra.ph/file/0ad8d335efcda7b7226af.jpg" width=100 height=100></a> |
 |---|
-| **[Sithum Kalhara](https://github.com/Sithuwa)**</br>Founder & Developer</br>*[Sithum Kalhara]* |
+| **[MR KASUN OFC](https://github.com/Sithuwa)**</br>Founder & Developer</br>*[KASUN SANDEEPA]* |
   </p>
 
